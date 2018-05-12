@@ -1,0 +1,33 @@
+_repo: The-Wreckers_38846
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Becher, Arthur E.
+    alias: Becher, A. E. (Arthur E.)
+    gutenberg_agent_id: '31735'
+    url: http://www.gutenberg.org/2009/agents/31735
+covers:
+- cover_type: archival
+  image_path: 38846-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political corruption -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Railroads -- West (U.S.) -- Fiction'
+title: The Wreckers
+url: http://www.gutenberg.org/ebooks/38846
